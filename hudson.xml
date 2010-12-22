@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>example-trunk all builds</title>
+  <link type="text/html" href="http://fakeurl/" rel="alternate"/>
+  <updated>2010-12-22T15:38:25Z</updated>
+  <author>
+    <name>Hudson Server</name>
+  </author>
+  <id>urn:uuid:903deee0-7bfa-11db-9fe1-0800200c9a66</id>
+  <entry>
+    <title>fakeproject-trunk #241 (stable)</title>
+    <link type="text/html" href="http://fakeurl/241/" rel="alternate"/>
+    <id>tag:hudson.dev.java.net,2010:fakeproject-trunk:2010-12-22_16-38-25</id>
+    <published>2010-12-22T15:38:25Z</published>
+    <updated>2010-12-22T15:38:25Z</updated>
+  </entry>
+  <entry>
+    <title>fakeproject-trunk #240 (stable)</title>
+    <link type="text/html" href="http://fakeurl/240/" rel="alternate"/>
+    <id>tag:hudson.dev.java.net,2010:fakeproject-trunk:2010-12-22_16-32-01</id>
+    <published>2010-12-22T15:32:01Z</published>
+    <updated>2010-12-22T15:32:01Z</updated>
+  </entry>
+  <entry>
+    <title>fakeproject-trunk #239 (back to normal)</title>
+    <link type="text/html" href="http://fakeurl/239/" rel="alternate"/>
+    <id>tag:hudson.dev.java.net,2010:fakeproject-trunk:2010-12-10_17-30-44</id>
+    <published>2010-12-10T16:30:44Z</published>
+    <updated>2010-12-10T16:30:44Z</updated>
+  </entry>
+  <entry>
+    <title>fakeproject-trunk #238 (broken since build #235)</title>
+    <link type="text/html" href="http://fakeurl/238/" rel="alternate"/>
+    <id>tag:hudson.dev.java.net,2010:fakeproject-trunk:2010-12-10_17-22-42</id>
+    <published>2010-12-10T16:22:42Z</published>
+    <updated>2010-12-10T16:22:42Z</updated>
+  </entry>
+  <entry>
+    <title>fakeproject-trunk #237 (broken since build #235)</title>
+    <link type="text/html" href="http://fakeurl/237/" rel="alternate"/>
+    <id>tag:hudson.dev.java.net,2010:fakeproject-trunk:2010-12-10_17-16-33</id>
+    <published>2010-12-10T16:16:33Z</published>
+    <updated>2010-12-10T16:16:33Z</updated>
+  </entry>
+  <entry>
+    <title>fakeproject-trunk #236 (broken since build #235)</title>
+    <link type="text/html" href="http://fakeurl/236/" rel="alternate"/>
+    <id>tag:hudson.dev.java.net,2010:fakeproject-trunk:2010-12-10_17-10-16</id>
+    <published>2010-12-10T16:10:16Z</published>
+    <updated>2010-12-10T16:10:16Z</updated>
+  </entry>
+  <entry>
+    <title>fakeproject-trunk #235 (broken since this build)</title>
+    <link type="text/html" href="http://fakeurl/235/" rel="alternate"/>
+    <id>tag:hudson.dev.java.net,2010:fakeproject-trunk:2010-12-10_16-59-49</id>
+    <published>2010-12-10T15:59:49Z</published>
+    <updated>2010-12-10T15:59:49Z</updated>
+  </entry>
+  <entry>
+    <title>fakeproject-trunk #234 (back to normal)</title>
+    <link type="text/html" href="http://fakeurl/234/" rel="alternate"/>
+    <id>tag:hudson.dev.java.net,2010:fakeproject-trunk:2010-12-10_16-57-39</id>
+    <published>2010-12-10T15:57:39Z</published>
+    <updated>2010-12-10T15:57:39Z</updated>
+  </entry>
+  <entry>
+    <title>fakeproject-trunk #233 (broken for a long time)</title>
+    <link type="text/html" href="http://fakeurl/233/" rel="alternate"/>
+    <id>tag:hudson.dev.java.net,2010:fakeproject-trunk:2010-12-10_16-56-52</id>
+    <published>2010-12-10T15:56:52Z</published>
+    <updated>2010-12-10T15:56:52Z</updated>
+  </entry>
+  <entry>
+    <title>fakeproject-trunk #232 (broken for a long time)</title>
+    <link type="text/html" href="http://fakeurl/232/" rel="alternate"/>
+    <id>tag:hudson.dev.java.net,2010:fakeproject-trunk:2010-12-10_16-55-15</id>
+    <published>2010-12-10T15:55:15Z</published>
+    <updated>2010-12-10T15:55:15Z</updated>
+  </entry>
+</feed>
